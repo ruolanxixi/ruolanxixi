@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently postdoctoral researcher in Earth Surface Dynamics @ETH Zurich
+- 🎓 Previously PhD @ETH Zurich, MSc @ETH Zurich, BSc @SEU
+- 🌧️ Interested in atmospheric dynamics, extreme events, mountain meteorology
+- 💻 Also enthusiastic about the potential of AI in advancing future climate projections
+- 📫 How to reach me: [[email](ruolan.xiang@env.ethz.ch)] [[LinkdIn](www.linkedin.com/in/ruolanxiang)]
